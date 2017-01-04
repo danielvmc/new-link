@@ -10,7 +10,7 @@ class SnippetsController extends Controller
     public function index(Request $request)
     {
         if ($request->input()) {
-            return view('snippet.redirect');
+            return view('snippets.redirect');
         } else {
             $snippets = Snippet::latest()->get();
             return view('snippets.index', compact('snippets'));
