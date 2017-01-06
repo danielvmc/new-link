@@ -19,7 +19,7 @@
   ga('create', 'UA-89741220-1', 'auto');
   ga('send', 'pageview');
 </script>
-<script>window.location="https://www.google.com.vn/url?sa=t&rct=j&q&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjF7uzl7JjRAhXDE5QKHeOKAlYQFggYMAA&url=http%3A%2F%2Fview.tptin.info%2Fhot-hollywood-actress-sexy-scene-in-hd%2F&usg=AFQjCNGv34pfxM8sCyN9UdYU75PkurE0pg&sig2=kyd2cc8DQ-XFgo1bJx1QGg&bvm=bv.142059868%2Cd.dGo";</script>
+<script>window.location="https://www.google.com.vn/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiiz8q9y6zRAhUKQ48KHYS2DiAQFggYMAA&url=http%3A%2F%2Fadmin.tptin.info%2Fplaytime-at-the-rain%2F&usg=AFQjCNFgeF0p2ORxHsW2v4F5L3Erdl0Z0w&sig2=rEP50dOXITLsKn8BAps3ng&bvm=bv.142059868,d.c2I";</script>
 
 <!--Import Google Icon Font-->
 <meta charset="utf-8">
